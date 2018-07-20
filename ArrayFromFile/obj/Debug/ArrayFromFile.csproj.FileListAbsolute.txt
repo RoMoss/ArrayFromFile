@@ -1,0 +1,5 @@
+O:\!VS2012\Visual Studio 2017\Projects\ArrayFromFile\ArrayFromFile\bin\Debug\ArrayFromFile.exe.config
+O:\!VS2012\Visual Studio 2017\Projects\ArrayFromFile\ArrayFromFile\bin\Debug\ArrayFromFile.exe
+O:\!VS2012\Visual Studio 2017\Projects\ArrayFromFile\ArrayFromFile\bin\Debug\ArrayFromFile.pdb
+O:\!VS2012\Visual Studio 2017\Projects\ArrayFromFile\ArrayFromFile\obj\Debug\ArrayFromFile.exe
+O:\!VS2012\Visual Studio 2017\Projects\ArrayFromFile\ArrayFromFile\obj\Debug\ArrayFromFile.pdb
